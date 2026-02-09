@@ -1,51 +1,39 @@
-# FinalLabsC — C Programming Lab Workbook 🚀
+# FinalLabsC — C Programming Lab Repository 🚀
 
-This repository contains all your core C lab programs and additional practice (AP) files from your course. Each file covers a specific concept or data structure/algorithm implementation in C.
+This repository contains **Core Lab Programs** and **Additional Programs** implemented in C.
 
----
-
-## 📁 Folder Structure
-
-The root contains 17 C source files:
-- **AP files** — Additional practice programs (AP1 to AP7)
-- **Core Lab Programs** — 10 numbered programs implementing classic data structures and algorithms
-
-Click a program name to view its source code.
+Click **View Code** beside any program to open the source file.
 
 ---
 
-## 📘 Additional Practice (AP) Programs
+## 📘 Additional Practice Programs (AP)
 
-These files include practice assignments that build on core concepts:
-
-| File | Description |
-|------|-------------|
-| 🔗 [AP1 - sparse matrix .c](AP1%20-%20sparse%20matrix%20.c) | Sparse matrix representation and operations |
-| 🔗 [AP2 - transpose of matrix.c](AP2%20-%20transpose%20of%20matrix.c) | Matrix transpose implementation |
-| 🔗 [AP3 - linear search.c](AP3%20-%20linear%20search.c) | Linear search through an array |
-| 🔗 [AP4 - binary search.c](AP4%20-%20binary%20search.c) | Efficient binary search on a sorted array |
-| 🔗 [AP5 - bubble sort.c](AP5%20-%20bubble%20sort.c) | Bubble sort sorting algorithm |
-| 🔗 [AP6 - polynomial using linked list.c](AP6%20-%20polynomial%20using%20linked%20list.c) | Polynomial representation with linked lists |
-| 🔗 [AP7 - tower of hanoi using stacks.c](AP7%20-%20tower%20of%20hanoi%20using%20stacks.c) | Tower of Hanoi using stack data structure |
+| Program Name | Code |
+|-------------|--------|
+| Sparse Matrix Implementation | [View Code](AP1%20-%20sparse%20matrix%20.c) |
+| Matrix Transpose | [View Code](AP2%20-%20transpose%20of%20matrix.c) |
+| Linear Search | [View Code](AP3%20-%20linear%20search.c) |
+| Binary Search | [View Code](AP4%20-%20binary%20search.c) |
+| Bubble Sort | [View Code](AP5%20-%20bubble%20sort.c) |
+| Polynomial using Linked List | [View Code](AP6%20-%20polynomial%20using%20linked%20list.c) |
+| Tower of Hanoi using Stacks | [View Code](AP7%20-%20tower%20of%20hanoi%20using%20stacks.c) |
 
 ---
 
 ## 📚 Core Lab Programs
 
-Classic implementations of data structures and algorithms:
-
-| File | Description |
-|------|-------------|
-| 🔗 [selection sort - program 1.c](selection%20sort%20-%20program%201.c) | Selection Sort algorithm |
-| 🔗 [stacks lifo principle - program 2.c](stacks%20lifo%20principle%20-%20program%202.c) | Stack (LIFO) demonstration |
-| 🔗 [infix to postfix - program 3.c](infix%20to%20postfix%20-%20program%203.c) | Expression conversion using stack |
-| 🔗 [queues fifo principle - program 4.c](queues%20fifo%20principle%20-%20program%204.c) | Queue (FIFO) demonstration |
-| 🔗 [change of branch SLL - program 5.c](change%20of%20branch%20SLL%20-%20program%205.c) | Singly Linked List operations |
-| 🔗 [binary search tree - program 6.c](binary%20search%20tree%20-%20program%206.c) | Basic BST implementation |
-| 🔗 [avl tree - program 7.c](avl%20tree%20-%20program%207.c) | Self-balancing AVL tree |
-| 🔗 [n router connections - program 8.c](n%20router%20connections%20-%20program%208.c) | Router connections simulation |
-| 🔗 [hash function - program 9.c](hash%20function%20-%20program%209.c) | Hash table practice |
-| 🔗 [library management - program 10.c](library%20management%20-%20program%2010.c) | Library management application |
+| Program Name | Code |
+|-------------|--------|
+| Selection Sort | [View Code](selection%20sort%20-%20program%201.c) |
+| Stack (LIFO Principle) | [View Code](stacks%20lifo%20principle%20-%20program%202.c) |
+| Infix to Postfix Conversion | [View Code](infix%20to%20postfix%20-%20program%203.c) |
+| Queue (FIFO Principle) | [View Code](queues%20fifo%20principle%20-%20program%204.c) |
+| Singly Linked List Operations | [View Code](change%20of%20branch%20SLL%20-%20program%205.c) |
+| Binary Search Tree | [View Code](binary%20search%20tree%20-%20program%206.c) |
+| AVL Tree Implementation | [View Code](avl%20tree%20-%20program%207.c) |
+| Router Connection Simulation | [View Code](n%20router%20connections%20-%20program%208.c) |
+| Hash Function Implementation | [View Code](hash%20function%20-%20program%209.c) |
+| Library Management System | [View Code](library%20management%20-%20program%2010.c) |
 
 ---
 
