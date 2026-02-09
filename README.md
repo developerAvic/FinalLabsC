@@ -4,8 +4,6 @@ This repository contains **Core Lab Programs** and **Additional Programs** imple
 
 Click **View Code** beside any program to open the source file.
 
----
-
 ## 📘 Additional Practice Programs (AP)
 
 | Program Name | Code |
@@ -17,8 +15,6 @@ Click **View Code** beside any program to open the source file.
 | Bubble Sort | [View Code](AP5%20-%20bubble%20sort.c) |
 | Polynomial using Linked List | [View Code](AP6%20-%20polynomial%20using%20linked%20list.c) |
 | Tower of Hanoi using Stacks | [View Code](AP7%20-%20tower%20of%20hanoi%20using%20stacks.c) |
-
----
 
 ## 📚 Core Lab Programs
 
@@ -34,5 +30,3 @@ Click **View Code** beside any program to open the source file.
 | Router Connection Simulation | [View Code](n%20router%20connections%20-%20program%208.c) |
 | Hash Function Implementation | [View Code](hash%20function%20-%20program%209.c) |
 | Library Management System | [View Code](library%20management%20-%20program%2010.c) |
-
----
