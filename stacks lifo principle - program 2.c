@@ -62,9 +62,9 @@ void display()
 // dynamically allocate the size of the array with the max value of stack
 // run a while loop which runs until user selects exit
     // get the choices from user to either push pop display exit
-    // push - get the element to be pushed from user and pass it as an argument to push()
-    // pop - call pop() if not returned with error flag, display the popper element
-    // display , free and default 
+        // push - get the element to be pushed from user and pass it as an argument to push()
+        // pop - call pop() if not returned with error flag, display the popper element
+        // display , free and default 
 
 int main()
 {
